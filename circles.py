@@ -13,5 +13,6 @@ def circles(number, radius,radius2):
         left(angle)
         n=n+1
 
+speed(0)
 circles(8,10,75)
 input()
